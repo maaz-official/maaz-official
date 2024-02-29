@@ -1,6 +1,7 @@
 <!-- Header -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-tWs5+9dSu2I7Pu9csNdQ+J+Kq6Z3Wb07TReMmGGZzIRb9AC+cc1pKro1m1doLw8QDKxuPwLhJXfMvvdZg4XNpw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <h1 align="center">👋 Hello! I'm Muhammad Maaz</h1>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <!-- Footer -->
 <p align="center">
@@ -12,8 +13,6 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programmer GIF" width="300">
 </p>
 
-<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
