@@ -1,6 +1,11 @@
 <!-- Header -->
 <h1 align="center">👋 Hello! I'm Muhammad Maaz</h1>
 
+<!-- Footer -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammad-maaz.muhammad-maaz" alt="visitor badge"> 
+</p>
+
 <!-- Animated Programmer Image -->
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programmer GIF" width="300">
@@ -48,9 +53,4 @@
 <h3 align="center">Fun Fact</h3>
 <p align="center">
   I'm also a big fan of hiking and exploring new trails in my free time!
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammad-maaz.muhammad-maaz" alt="visitor badge"> 
 </p>
