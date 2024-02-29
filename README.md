@@ -1,8 +1,8 @@
 <!-- Header -->
-<h1 align="center">👋 Hello! I'm Muhammad Maaz</h1>
+<h1>👋 Hello! I'm Muhammad Maaz</h1>
 
 <!-- Animated Programmer Image -->
-<p align="center">
+<p>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programmer GIF" width="300">
 </p>
 
@@ -13,8 +13,8 @@
 </p>
 
 <!-- Skills -->
-<h3 align="center">Skills</h3>
-<p align="center">
+<h3>Skills</h3>
+<p>
   🚀 MERN Stack Development <br>
   📱 Mobile App Development <br>
   🛒 E-commerce Websites <br>
@@ -22,7 +22,7 @@
 </p>
 
 <!-- Projects -->
-<h3 align="center">Projects</h3>
+<h3>Projects</h3>
 
 <!-- Project 1: E-commerce Website -->
 <p align="left">
@@ -30,29 +30,29 @@
 </p>
 
 <!-- Project 2: Blogging App -->
-<p align="center">
+<p>
   <a href="link_to_blogging_project">Blogging App</a> - Currently working on a blogging application where users can create, publish, and manage their blog posts. Built using React, Node.js, Express, and MongoDB.
 </p>
 
 <!-- GitHub Stats -->
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
+<h3>GitHub Stats</h3>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical" alt="Muhammad Maaz's GitHub Stats">
 </p>
 
 <!-- Connect with Me -->
-<h3 align="center">Connect with Me</h3>
-<p align="center">
+<h3>Connect with Me</h3>
+<p>
   <a href="link_to_linkedin_profile">LinkedIn</a> | <a href="link_to_twitter_profile">Twitter</a> | Email: maaz@example.com
 </p>
 
 <!-- Fun Fact -->
-<h3 align="center">Fun Fact</h3>
-<p align="center">
+<h3>Fun Fact</h3>
+<p>
   I'm also a big fan of hiking and exploring new trails in my free time!
 </p>
 
 <!-- Footer -->
-<p align="center">
+<p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammad-maaz.muhammad-maaz" alt="visitor badge"> 
 </p>
