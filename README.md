@@ -15,10 +15,14 @@
 <!-- Skills -->
 <h3 align="center">Skills</h3>
 <p align="center">
-  🚀 MERN Stack Development <br>
-  📱 Mobile App Development <br>
-  🛒 E-commerce Websites <br>
-  📝 Blogging Applications
+  <i class="fab fa-html5" title="HTML5"></i>
+  <i class="fab fa-css3-alt" title="CSS3"></i>
+  <i class="fab fa-js" title="JavaScript"></i>
+  <i class="fab fa-react" title="React"></i>
+  <i class="fab fa-node-js" title="Node.js"></i>
+  <i class="fas fa-mobile-alt" title="Mobile Development"></i>
+  <i class="fas fa-shopping-cart" title="E-commerce"></i>
+  <i class="far fa-edit" title="Blogging"></i>
 </p>
 
 <!-- Projects -->
@@ -32,12 +36,6 @@
 <!-- Project 2: Blogging App -->
 <p align="center">
   <a href="link_to_blogging_project">Blogging App</a> - Currently working on a blogging application where users can create, publish, and manage their blog posts. Built using React, Node.js, Express, and MongoDB.
-</p>
-
-<!-- GitHub Stats -->
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical" alt="Muhammad Maaz's GitHub Stats">
 </p>
 
 <!-- Connect with Me -->
@@ -55,10 +53,4 @@
 <!-- Footer -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammad-maaz.muhammad-maaz" alt="visitor badge"> 
-</p>
-
-<!-- Recent Activity -->
-<h3 align="center">Recent Activity</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&layout=compact" alt="Muhammad Maaz's Wakatime Stats">
 </p>
