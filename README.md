@@ -1,36 +1,53 @@
-# [Muhammad Maaz]
+<!-- Header -->
+<h1 align="center">👋 Hello! I'm Muhammad Maaz</h1>
 
-## About Me
+<!-- Animated Programmer Image -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programmer GIF" width="300">
+</p>
 
-I am MERN Stack Developer having 1+ Year experience and also as a learner.
+<!-- About Me -->
+<h3 align="center">About Me</h3>
+<p align="center">
+  I'm a passionate MERN Stack Developer and Mobile App Developer. I enjoy building scalable web applications and mobile apps using modern technologies.
+</p>
 
-## Skills
+<!-- Skills -->
+<h3 align="center">Skills</h3>
+<p align="center">
+  🚀 MERN Stack Development <br>
+  📱 Mobile App Development <br>
+  🛒 E-commerce Websites <br>
+  📝 Blogging Applications
+</p>
 
-- List your key skills and technologies you're proficient in.
-- You can use bullet points or a comma-separated list.
+<!-- Projects -->
+<h3 align="center">Projects</h3>
 
-## Projects
+<!-- Project 1: E-commerce Website -->
+<p align="center">
+  <a href="link_to_ecommerce_project">E-commerce Website</a> - A full-stack e-commerce website built with the MERN stack. Allows users to browse products, add them to the cart, and checkout securely.
+</p>
 
-### [Project Name 1](link_to_project_1)
-Brief description of the project. Highlight key features and technologies used.
+<!-- Project 2: Blogging App -->
+<p align="center">
+  <a href="link_to_blogging_project">Blogging App</a> - Currently working on a blogging application where users can create, publish, and manage their blog posts. Built using React, Node.js, Express, and MongoDB.
+</p>
 
-### [Project Name 2](link_to_project_2)
-Brief description of the project. Highlight key features and technologies used.
+<!-- GitHub Stats -->
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical" alt="Muhammad Maaz's GitHub Stats">
+</p>
 
-### [Project Name 3](link_to_project_3)
-Brief description of the project. Highlight key features and technologies used.
+<!-- Connect with Me -->
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="link_to_linkedin_profile">LinkedIn</a> | <a href="link_to_twitter_profile">Twitter</a> | Email: maaz@example.com
+</p>
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
-
-## Contact Me
-
-- LinkedIn: [Your LinkedIn Profile](link_to_linkedin_profile)
-- Twitter: [Your Twitter Profile](link_to_twitter_profile)
-- Email: your.email@example.com
-
-## Fun Fact
-
-Share a fun or interesting fact about yourself.
-
+<!-- Fun Fact -->
+<h3 align="center">Fun Fact</h3>
+<p align="center">
+  I'm also a big fan of hiking and exploring new trails in my free time!
+</p>
