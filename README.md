@@ -2,11 +2,6 @@
 <h1 align="center">👋 Hello! I'm Muhammad Maaz</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammad-maaz.muhammad-maaz" alt="visitor badge"> 
-</p>
-
 <!-- Animated Programmer Image -->
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programmer GIF" width="300">
