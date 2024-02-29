@@ -17,19 +17,6 @@
   I'm a passionate MERN Stack Developer and Mobile App Developer. I enjoy building scalable web applications and mobile apps using modern technologies.
 </p>
 
-<!-- Skills -->
-<h3 align="center">Skills</h3>
-<p align="center">
-  <i class="fab fa-html5" title="HTML5"></i>
-  <i class="fab fa-css3-alt" title="CSS3"></i>
-  <i class="fab fa-js" title="JavaScript"></i>
-  <i class="fab fa-react" title="React"></i>
-  <i class="fab fa-node-js" title="Node.js"></i>
-  <i class="fas fa-mobile-alt" title="Mobile Development"></i>
-  <i class="fas fa-shopping-cart" title="E-commerce"></i>
-  <i class="far fa-edit" title="Blogging"></i>
-</p>
-
 <!-- Projects -->
 <h3 align="center">Projects</h3>
 
@@ -53,4 +40,17 @@
 <h3 align="center">Fun Fact</h3>
 <p align="center">
   I'm also a big fan of hiking and exploring new trails in my free time!
+</p>
+
+<!-- Skills -->
+<h3 align="center">Skills</h3>
+<p align="center">
+  <i class="fab fa-html5" title="HTML5"></i>
+  <i class="fab fa-css3-alt" title="CSS3"></i>
+  <i class="fab fa-js" title="JavaScript"></i>
+  <i class="fab fa-react" title="React"></i>
+  <i class="fab fa-node-js" title="Node.js"></i>
+  <i class="fas fa-mobile-alt" title="Mobile Development"></i>
+  <i class="fas fa-shopping-cart" title="E-commerce"></i>
+  <i class="far fa-edit" title="Blogging"></i>
 </p>
