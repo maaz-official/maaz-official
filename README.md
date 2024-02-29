@@ -1,4 +1,5 @@
 <!-- Header -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-tWs5+9dSu2I7Pu9csNdQ+J+Kq6Z3Wb07TReMmGGZzIRb9AC+cc1pKro1m1doLw8QDKxuPwLhJXfMvvdZg4XNpw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <h1 align="center">👋 Hello! I'm Muhammad Maaz</h1>
 
 <!-- Footer -->
