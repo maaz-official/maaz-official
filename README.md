@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1>👋 Hello! I'm Muhammad Maaz</h1>
+<h1 class='center'>👋 Hello! I'm Muhammad Maaz</h1>
 
 <!-- Animated Programmer Image -->
 <p>
