@@ -1,8 +1,8 @@
-# [Your Name]
+# [Muhammad Maaz]
 
 ## About Me
 
-Brief introduction about yourself. This could include your background, interests, and what you're passionate about.
+I am MERN Stack Developer having 1+ Year experience and also as a learner.
 
 ## Skills
 
