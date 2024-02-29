@@ -7,8 +7,8 @@
 </p>
 
 <!-- About Me -->
-<h3 align="center">About Me</h3>
-<p align="center">
+<h3 align="left">About Me</h3>
+<p align="left">
   I'm a passionate MERN Stack Developer and Mobile App Developer. I enjoy building scalable web applications and mobile apps using modern technologies.
 </p>
 
@@ -25,7 +25,7 @@
 <h3 align="center">Projects</h3>
 
 <!-- Project 1: E-commerce Website -->
-<p align="center">
+<p align="left">
   <a href="link_to_ecommerce_project">E-commerce Website</a> - A full-stack e-commerce website built with the MERN stack. Allows users to browse products, add them to the cart, and checkout securely.
 </p>
 
