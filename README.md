@@ -51,3 +51,8 @@
 <p align="center">
   I'm also a big fan of hiking and exploring new trails in my free time!
 </p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammad-maaz.muhammad-maaz" alt="visitor badge"> 
+</p>
