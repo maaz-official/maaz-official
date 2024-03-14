@@ -22,9 +22,6 @@
   <a href="https://www.youtube.com/c/lazzycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/maaz-official/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Muhammad Maaz</h1>
-<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
-
 - 🔭 I’m currently working on **Blog Website**
 
 - 🌱 I’m currently learning **MERN Stack**
